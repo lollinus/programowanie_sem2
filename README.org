@@ -1,6 +1,6 @@
-Zajêcia z programowania w TEB.
+ZajÄ™cia z programowania w TEB.
 
-* Zajêcia 1
+* ZajÄ™cia 1
 
 ** Wprowadzenie
 
@@ -8,11 +8,67 @@ Zajêcia z programowania w TEB.
 
     Kod uzyskiwany po kompilacji programu java.
     Beta jest wykonywany na wirtualnej maszynie java.
-    Jest to podstawowa si³a jêzyka Java. Program napisany w javie i
-    skompilowany do Beta kodu mo¿e byæ wykonany na dowolnym komputerze
-    wyposa¿onym w wirtualn± maszynê java.
+    Jest to podstawowa siÅ‚a jÄ™zyka Java. Program napisany w javie i
+    skompilowany do Beta kodu moÅ¼e byÄ‡ wykonany na dowolnym komputerze
+    wyposaÅ¼onym w wirtualnÄ… maszynÄ™ java.
 
-*** Obiekt
+*** Instrukcje jezyka
+
+**** Warunkowa
+
+#+NAME: pojedyncza instrukcja warunkowa
+#+BEGIN_SRC java
+     if (warunek) {
+     }
+#+END_SRC
+
+#+NAME: instrukcja warunkowa z alternatywa
+#+BEGIN_SRC java
+  if(warunek){
+  } else {
+  }
+#+END_SRC
+
+
+#+NAME: instrukcja warunkowa laczona
+#+BEGIN_SRC java
+  if(warunek) {
+  } else if(warunek) {
+  }
+#+END_SRC
+
+**** petle
+
+#+BEGIN_SRC java
+     while (warunek) {
+     	program;
+     }
+#+END_SRC
+
+#+BEGIN_SRC java
+  for(inicjalizacja; warunek; krok) {
+          program;
+  }
+#+END_SRC
+
+*** ZasiÄ™g zmiennych
+
+KaÅ¼da zmienna programu jest dostÄ™pna w zdefiniowanym kontekÅ›cie.
+Kontekst jest nazywany zasiÄ™giem zmiennej.
+
+Zmienna moÅ¼e byÄ‡ widoczna w zasiÄ™gu:
+- klasy 
+- metody
+- jawnie wydzielonym zasiÄ™gu ({})
+
+#+NAME: zasieg zmiennych
+#+BEGIN_SRC java
+{
+
+}
+#+END_SRC
+
+*** obiekt
 
 *** Odczyt z pliku
 
@@ -20,14 +76,25 @@ Zajêcia z programowania w TEB.
 
 *** GUI
 
-*** Dostêp do baz danych
+*** DostÄ™p do baz danych
 **** Podstawy SQL
 
 *** Praca w sieci
-**** Wysy³anie poczty
+**** WysyÅ‚anie poczty
 **** Applety
 
 
 ** JDK (Java Software Development Kit)
 
+* Scratch
+
+#+BEGIN_COMMENT
+#
+#
+#
+#
+#+END_COMMENT
+
+#
+# -*- mode: org; coding: utf-8-unix; -*-
 
