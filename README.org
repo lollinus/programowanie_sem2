@@ -68,7 +68,8 @@ Zmienna może być widoczna w zasięgu:
 }
 #+END_SRC
 
-*** obiekt
+*** Obiekt
+    Obiekt jest instancją klasy w programie.
 
 *** Odczyt z pliku
 
@@ -98,3 +99,4 @@ Zmienna może być widoczna w zasięgu:
 #
 # -*- mode: org; coding: utf-8-unix; -*-
 
+#+STARTUP: content
