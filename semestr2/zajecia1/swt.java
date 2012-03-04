@@ -1,3 +1,4 @@
+package zajecia1;
 
 import org.eclipse.swt.graphics.Point;
 import org.eclipse.swt.graphics.Rectangle;

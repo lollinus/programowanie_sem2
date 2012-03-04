@@ -1,3 +1,5 @@
+package zajecia1;
+
 class hello {
         public static void main(String [] a) {
                 String firstname="Karol";

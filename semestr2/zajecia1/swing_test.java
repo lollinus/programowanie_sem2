@@ -1,3 +1,5 @@
+package zajecia1;
+
 import javax.swing.*;
 
 public class swing_test {
