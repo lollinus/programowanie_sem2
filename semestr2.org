@@ -1,0 +1,33 @@
+Zajêcia z programowania w TEB.
+
+* Zajêcia 1
+
+** Wprowadzenie
+
+*** Beta kod
+
+    Kod uzyskiwany po kompilacji programu java.
+    Beta jest wykonywany na wirtualnej maszynie java.
+    Jest to podstawowa si³a jêzyka Java. Program napisany w javie i
+    skompilowany do Beta kodu mo¿e byæ wykonany na dowolnym komputerze
+    wyposa¿onym w wirtualn± maszynê java.
+
+*** Obiekt
+
+*** Odczyt z pliku
+
+*** Zapis do pliku
+
+*** GUI
+
+*** Dostêp do baz danych
+**** Podstawy SQL
+
+*** Praca w sieci
+**** Wysy³anie poczty
+**** Applety
+
+
+** JDK (Java Software Development Kit)
+
+
