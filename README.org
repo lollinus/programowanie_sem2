@@ -87,6 +87,15 @@ Zmienna może być widoczna w zasięgu:
 
 ** JDK (Java Software Development Kit)
 
+* Zajęcia 2
+
+** Klasa
+*** Klasyfikator dostępu
+**** Public
+**** Private
+**** Protected
+
+
 * Scratch
 
 #+BEGIN_COMMENT
